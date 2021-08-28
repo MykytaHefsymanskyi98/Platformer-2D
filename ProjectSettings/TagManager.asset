@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ladder
+  - Enemy
+  - Spike
+  - Water
+  - Water Going Up
+  - Background
+  - Ground
+  - Movement Border
+  - Movement Border Top
+  - Movement Border Left
+  - Movement Border Right
+  - Enemy Bat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Ladder
+  - Player
+  - Background
+  - Enemy
+  - Spike
+  - Exit Sprite
+  - Coin
+  - Water Going Up
+  - Enemy Bat
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2631091717
+    locked: 0
+  - name: Decor
+    uniqueID: 2511140507
+    locked: 0
+  - name: Spike
+    uniqueID: 1565491355
+    locked: 0
+  - name: Ladder
+    uniqueID: 3669105767
+    locked: 0
+  - name: Water
+    uniqueID: 936085255
+    locked: 0
+  - name: Foreground
+    uniqueID: 527148183
+    locked: 0
+  - name: Enemy
+    uniqueID: 2061319539
+    locked: 0
+  - name: Player
+    uniqueID: 3507210035
+    locked: 0
+  - name: Coin
+    uniqueID: 4050954643
+    locked: 0
+  - name: Health
+    uniqueID: 1368905867
+    locked: 0
+  - name: Exit Sprite
+    uniqueID: 2937709991
+    locked: 0
